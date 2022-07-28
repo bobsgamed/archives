@@ -1,0 +1,7 @@
+visibility: Public Paste
+title: Another Bob's ranting
+by: pandabear41
+date: Monday 22nd of August 2011 04:50:23 PM CDT
+unique visitors: 139
+deletion: never
+type: text

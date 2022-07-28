@@ -1,0 +1,206 @@
+(18:32:30) bobsgames [~soapybubb@7DFEBA6D.DB39BAB7.3DFD647E.IP] entered the room.
+(18:32:44) bobsgames is now known as bobsgame
+(18:33:50) MPQC [~chatzilla@synIRC-2052C70A.dsl.bell.ca] entered the room.
+(18:33:55) bobsgame: we should move this to freenode for chanserv
+(18:33:59) MPQC: We should
+(18:34:27) MPQC: This is now unofficial after all -.-
+(18:34:42) bobsgame: we don't want an official chatroom for several reasons
+(18:34:49) MPQC: Such as
+(18:35:06) bobsgame: it's a liability and it will get flooded
+(18:35:18) MPQC: I see neither happening in this channel
+(18:35:19) bobsgame: we would have to close it down and piss a lot more people off later
+(18:35:39) bobsgame: just because you don't see something now doesn't mean it won't happen later
+(18:35:52) bobsgame: plus if you guys are watching the pot the water will never boil
+(18:35:54) MPQC: And it will happen because you say so
+(18:35:56) MPQC: :|
+(18:36:06) bobsgame: and then you sit around criticizing it and saying "it will never happen"
+(18:36:21) bobsgame: now if someone new comes in here, i'll have to repeat everything i just said
+(18:36:30) bobsgame: it isn't a useful form of containing information
+(18:36:30) MPQC: Don't worry, I'll C&P it
+(18:37:08) MPQC: And deleting peoples posts is very useful...Yeah?
+(18:37:25) MPQC: :P
+(18:37:32) bobsgame: it is when they are inflammatory and not beneficial to the project, yes
+(18:37:43) MPQC: Or when they go against your view
+(18:38:00) bobsgame: such as what
+(18:38:15) MPQC: Well I wouldn't have proof since there are none, aye?
+(18:38:22) bobsgame: even so, that is still not beneficial to the project
+(18:38:34) MPQC: :P
+(18:39:15) bobsgame: having a forum for anything other than customer and developer support is pushing it
+(18:39:34) MPQC: Explain
+(18:40:27) bobsgame: this is a serious company with real careers behind it
+(18:40:36) bobsgame: we have a corporate lawyer that already told me to remove the forum and game listing
+(18:40:37) MPQC: >Company implies more then 1 person
+(18:41:23) bobsgame: i've repeatedly said it is not a single person company
+(18:41:48) bobsgame: i have no idea why you somehow are unable to accept that
+(18:41:57) MPQC: Because we're awesome like that :)
+(18:41:59) MPQC: And because you can't ban me here
+(18:42:04) MPQC: Maybe g up there will
+(18:43:23) bobsgame: you're making it very difficult for me to continue caring about defending having a community at all
+(18:43:39) MPQC: I'm glad you associate me with the forums when I'm not there
+(18:43:57) bobsgame: you started the topic, did you not?
+(18:44:14) MPQC: No, I joined and you were talking about it
+(18:44:38) bobsgame: i was saying it to an idle channel.
+(18:44:58) MPQC: Nobody heres really idle, they're all sneaky ninjas
+(18:44:58) bobsgame: and that's the first thing i said
+(18:46:16) Treeki: how hypocritical that an "open indie game platform" does not accept people discussing it
+(18:46:21) MPQC: ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+(18:46:21) Treeki: even Sony and Gantendo have forums (although the latter is for tech support only)
+(18:46:36) MPQC: Nintendo used to have an awesome forum
+(18:46:40) bobsgame: and they have to heavily police those forums with a staff that we can't afford right now
+(18:47:03) MPQC: You can't afford free volunteers...Damnit all people, we're going down
+(18:47:34) Treeki: yeah, every spare cent needs to go towards the $10 goal :p
+(18:47:37) bobsgame: i'm not even sure we can have free volunteers, i've already informed the mods we might have to put them on the payroll
+(18:47:39) MPQC: Indeed lol
+(18:48:31) bobsgame: i'm sure that you guys do actually understand how a business works to some extent
+(18:48:50) MPQC: And that's the part where you come in.....
+(18:53:28) MPQC: I think we lost him :(
+(18:53:35) bobsgame: no
+(18:53:41) bobsgame: i was waiting for the second half of that sentence
+(18:53:57) MPQC: There is no second half
+(18:54:20) bobsgame: i'm pretty sure that there is nothing i can say that you won't just laugh at or use against me, and it makes it impossible to say anything to you.
+(18:54:55) MPQC: Isn't that where the saying "pics or didn't happen" came from?
+(18:55:01) bobsgame: it's a fairly common personality trait and i think you'll find that it results in a lot of people ignoring you.
+(18:55:30) MPQC: I haven't been ignored yet, probably will from you though ._.
+(18:55:38) bobsgame: the world doesn't work like 4chan.
+(18:55:47) MPQC: Never been to 4chan
+(18:56:00) MPQC: Besides random links which are retarded to open
+(18:56:08) Treeki: I just don't understand why you are going to take down the forum and game listing, when one of your main business goals is to attract indie developers and those two things are geared towards them
+(18:56:35) MPQC: Because his lawyer says so
+(18:56:36) bobsgame: i already said why, and you don't understand it.
+(18:56:53) bobsgame: so i can't explain it to you because you refuse accept what i say.
+(18:57:22) MPQC: Explain it to him, and I can be the one to not understand :)
+(18:57:24) Treeki: you've said why you don't want a chatroom, but not why you don't want a forum
+(18:57:34) Treeki: other than "we can't afford moderators"
+(18:57:36) bobsgame: i already said that i've defended the forum several times.
+(18:58:03) bobsgame: you aren't properly understanding what i'm saying to you, you don't seem to want to try to.
+(18:58:37) bobsgame: you're young and it's hard to communicate with you.
+(18:59:08) Treeki: yeah, sure, corporate lawyers and all that
+(18:59:14) bobsgame: see?
+(18:59:24) bobsgame: i tell you the truth and you attack it and refuse to accept it.
+(18:59:37) bobsgame: you are choosing to make it impossible for you to understand.
+(19:00:00) MPQC: Lawyer says take down your main method of attracting any people at all
+(19:00:02) MPQC: Let's do it!
+(19:00:09) bobsgame: see?
+(19:00:12) MPQC: :P
+(19:00:20) bobsgame: that's a huge assumption and it's a very naive stance.
+(19:00:28) MPQC: No, it's all you've told us
+(19:00:38) bobsgame: you're interpreting it that way.
+(19:00:46) MPQC: Then change my mind
+(19:01:07) bobsgame: change MY mind. explain to me exactly why a forum is our main method of attracting "people."
+(19:01:17) bobsgame: attracting people for what?
+(19:01:21) bobsgame: attracting whom?
+(19:01:25) bobsgame: how is it attracting them?
+(19:01:37) MPQC: Tell me this
+(19:01:40) bobsgame: no, you tell me.
+(19:01:42) MPQC: You google a product and find no info on it
+(19:01:45) MPQC: Will you buy it?
+(19:01:56) bobsgame: answer me questions.
+(19:02:14) pandabear41: I would, if it looked cool and i have in the past.
+(19:02:22) MPQC: lol
+(19:02:34) Treeki: as an indie developer: who would you rather stake your game on: a game console with nothing to prove but hype they've written, or a game console with an active community (customers who will play your game and developers who will provide support)?
+(19:02:37) bobsgame: i usually buy things from the store and from amazon without looking at their website.
+(19:03:04) bobsgame: as an indie developer i will develop for whichever platform has the largest market.
+(19:03:11) bobsgame: with the demographic for my game.
+(19:03:21) MPQC: So pretty much, the one with the active community :P
+(19:03:24) bobsgame: no.
+(19:03:43) MPQC: Your game doesn't even fit your demographic
+(19:03:45) MPQC: ~Confused~
+(19:03:45) bobsgame: for whichever platform has the largest market with the demographic for my game.
+(19:04:29) bobsgame: that could be the playstation 4 or the leapster for all i care.
+(19:04:55) bobsgame: answer my questions.
+(19:05:25) bobsgame: without jumping to sarcasm or using any other ego defense mechanism.
+(19:05:52) MPQC: We all wouldn't be here without the forum so I think it's pretty clear
+(19:06:30) bobsgame: you are not the market nor are you a developer.
+(19:06:36) bobsgame: it isn't clear.
+(19:06:58) MPQC: So I'm not going to buy it since you say so...
+(19:07:05) bobsgame: all the forum seems to do is attract negative attention and angry kids with chips on their shoulders.
+(19:07:24) bobsgame: why should i keep it?
+(19:07:33) bobsgame: you are not the market.
+(19:08:01) bobsgame: in fact, you're past the age where you should be playing with kids toys and you should be focusing on schoolwork and your career.
+(19:08:15) MPQC: Sorry for slacking
+(19:08:24) MPQC: Never too old to game
+(19:08:35) MPQC: My grandma still plays solitare, got nothing on me
+(19:08:37) bobsgame: it doesn't bother me in the slightest.
+(19:08:41) MPQC: :P
+(19:08:53) bobsgame: i have no reason to care where your life ends up.
+(19:09:30) bobsgame: solitaire is generally not considered a toy for kids.
+(19:10:05) bobsgame: also, that's a deflection technique, and it violates the conversation rule i stated.
+(19:10:17) MPQC: And what conversation rule is this?
+(19:10:34) bobsgame: answer without sarcasm or any other ego defense mechanism.
+(19:10:34) MPQC: My grandma is apart of my ego?
+(19:11:13) bobsgame: you changed the subject from yourself and used her as an example to defend your behavior.
+(19:11:20) bobsgame: you are not your grandma.
+(19:11:38) MPQC: Would you have rather I used yourself as an example?
+(19:12:09) bobsgame: no, don't use a another person as an example to defend or justify yourself.
+(19:12:40) bobsgame: answer my questions, please.
+(19:12:42) MPQC: So I'm only allowed to talk about myself, that seems a bit egotistical don't you think
+(19:13:00) bobsgame: no, it doesn't.
+(19:13:26) bobsgame: that seems like it would be threatening to your ego, so you would naturally jump to defense mechanism techniques to protect it.
+(19:15:51) bobsgame: your tendency to do this is likely obvious to most people, and they will become frustrated with dealing with you and give up or ignore you.
+(19:16:22) MPQC: Any normal person defends themself
+(19:16:45) bobsgame: most people do, some people do it more than others.
+(19:17:15) MPQC: Constantly being insulted doesn't help ;)
+(19:17:19) bobsgame: you're clearly a smart kid
+(19:17:39) MPQC: I'm going to talk in rainbows from now on
+(19:17:44) bobsgame: "too smart for his own good" is probably what people say.
+(19:17:56) MPQC: Can't say I've ever heard that one
+(19:18:09) bobsgame: they wouldn't say it to you.
+(19:18:18) JosJuice: You aren't going to attract your demographic (kids) with a forum, but developers will most likely be interested to see something more than just a webpage. They'll be able to see what kinds of things are possible on the nD based on what others are doing. They'll be able to ask questions. If you don't have a decent amount of developers, there won't be many games to buy. There are probably other methods of attracting developers, but I don't see why a forum could hurt. If there are bad people on the forums, make the purpose of the forum clear so that we only discuss relevant things.
+(19:18:32) JosJuice: (Sorry if that message got cut off.)
+(19:18:57) bobsgame: right, as i said, the only reason for having a forum is for customer and developer support.
+(19:19:00) bobsgame: anything else is pushing it.
+(19:19:18) bobsgame: regardless, i've been defending the forum.
+(19:20:11) MPQC: You won't have any developers to support if they see nothing...
+(19:20:28) JosJuice: So does this mean that there will be a forum, even if only for customer and developer support? Or has nothing been decided yet?
+(19:20:31) bobsgame: there is a wiki.
+(19:20:48) MPQC: A very useful one, it gives you an installer :)
+(19:21:09) bobsgame: yes, and it will become populated with examples.
+(19:21:13) bobsgame: that's really all we need.
+(19:21:34) bobsgame: developers don't care whether there is a forum or not, they are busy developing games.
+(19:22:01) bobsgame: all they would use it for is for finding information and asking for help.
+(19:22:44) JosJuice: Yes. Are you planning to use the wiki for that? They aren't ideal for asking for help and other kinds of discussion.
+(19:23:08) bobsgame: wiki talk pages work fine for that purpose, but i'm keeping the forum for development questions because it is a bit more convenient.
+(19:23:09) MPQC: Wait...If this is an open handheld...The developers ARE the community
+(19:24:03) bobsgame: right, so anyone not developing a game for the nD should be disallowed from participating?
+(19:24:17) bobsgame: that makes things easier for me.
+(19:24:58) bobsgame: are we all in agreement there?
+(19:25:37) JosJuice: Disallowed from participating in what? Discussion about development? General discussion about the nD? The wiki?
+(19:25:56) MPQC: Talking
+(19:25:58) bobsgame: we'll have a section for registered developers with pledged games only.
+(19:26:08) bobsgame: for strictly development Q&A
+(19:26:24) bobsgame: and we'll shut down the rest
+(19:26:59) MPQC: Hi I'm Bab and I have a question, what games are on the nD?
+(19:27:22) MPQC: Oh, the list was taken away? Too bad
+(19:27:28) bobsgame: i'm putting you on ignore.
+(19:27:37) MPQC: Aw :(
+(19:27:50) MPQC: I'm too ignorant :P
+(19:28:44) JosJuice: Will the development tools still be available from the wiki (or some other source) for everyone?
+(19:29:00) bobsgame: yes
+(19:29:10) JosJuice: That sounds fair.
+(19:29:13) bobsgame: i'm also going to continue defending my decision to keep the forum open
+(19:29:58) bobsgame: because i also think having a community of enthusiasts is beneficial to the project as a whole, though it is negative from a business standpoint.
+(19:30:27) MPQC: Wonder what Exo would say about that
+(19:30:46) bobsgame: as the CEO i am still able to make that decision, but i won't be CEO for much longer and it won't be up to me.
+(19:33:30) bobsgame: i hope that was informative enough for any of the serious developers here.
+(19:33:44) MPQC: Though I'm probably still on ignore, can I port Tetrid over to the DS?
+(19:33:52) bobsgame left the room (quit: Quit: Leaving).
+(19:34:09) MPQC: That was fun
+(19:34:37) JosJuice: I wonder if there really is a company.
+(19:34:47) JosJuice: He doesn't seem to be willing to tell us much about it.
+(19:36:04) MPQC: He can't afford a good host, it makes me doubt whether there is a lawyer
+(19:36:06) MPQC: Or a company
+(19:36:13) MPQC: Or a new CEO
+(19:36:19) MPQC: Why's he not the president?
+(19:37:29) user82: MPQC, you started the rainbow machine?
+(19:37:47) MPQC: It is quite awesome
+(19:37:53) MPQC: I suppose, what about it?
+(19:38:52) user82: nothing..just noticed 
+(19:38:55) MPQC: lol
+(19:39:06) MPQC: Fucking rainbows, how do they work?
+(19:39:18) user82: who the f was "bobsgame"?
+(19:39:25) user82: not bob?
+(19:39:27) MPQC: I'd assume it was bob
+(19:39:41) user82: ok..hes in here so sometimes
+(19:39:51) user82: dont want to read that stuff though
+(19:39:56) MPQC: Not worth reading
+(19:40:23) user82: i figured :P
