@@ -3,6 +3,11 @@ https://www.youtube.com/watch?v=6nK5MnUcVN4
     Title: bob's game - a game by one person.mp4
     Created: Friday September 13, 2013 at 4:00 AM
     Modified: Thursday, April 25, 2013 at 1:19 AM
+https://www.youtube.com/playlist?list=PLM7R7Pq2ZzxTwGYX48goF7T8yNc11nPqy
+https://www.youtube.com/watch?v=UPf4U_HgU9s
+https://www.youtube.com/watch?v=JnvSBKWIVnc
+https://www.youtube.com/watch?v=R4chPaBvZqI
+https://www.youtube.com/watch?v=fUfLDO_77ZU
 
 files/BobsGame.htm
     Link: https://www.mediafire.com/file/nhtwgjnnn5k/BobsGame.htm/file
@@ -24,3 +29,5 @@ files/Bobs_Game_Podcast_e2.mp3
     File size: 13MB
     Uploaded: 2009-06-07 21:06:04
 
+files/loveyou.wav is not the original file
+    it was exported (likely as a mp3) from bob, someone took the mp3 and put it into a video (likely compressing it again) and downloaded by me, fixed when it plays to match 105 BPM and saved as a WAV file.
